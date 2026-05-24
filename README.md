@@ -4,10 +4,10 @@
 This project applies data science to analyse university admissions and enrollment pipelines using IPEDS and CDS-related data from 2019–2023.
 
 ## Objectives
-1. Analyse admissions and enrollment patterns
-2. Identify key factors affecting yield and conversion
-3. Build models for admissions and enrollment related outcomes
-4. Support data-driven planning through dashboards
+1. Analyse key admissions and enrollment metrics
+2. Examine how data science techniques can be applied to generate actionable insights for admissions and enrollment management
+3. Evaluate using modelling and performance analysis
+4. Support data driven insights through dashboards
 
 ## OSEMN Methods
 1. Data cleaning and integration
