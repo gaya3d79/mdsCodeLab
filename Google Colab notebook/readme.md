@@ -27,7 +27,7 @@ Provide an overview of institutional admissions and enrollment performance.
 ## Dashboard 2: Predictive Modelling Insights
 
 ### Objective
-Visualise the key factors influencing enrollment outcomes and model performance.
+Visualise the key metrics influencing enrollment outcomes and model performance.
 
 ### Key Insights
 1. Feature importance analysis
@@ -45,13 +45,10 @@ Visualise the key factors influencing enrollment outcomes and model performance.
 
 The interactive Tableau dashboard can be accessed via Tableau Public:
 
-[View Dashboard](INSERT_TABLEAU_PUBLIC_LINK_HERE)
+[View Dashboard](https://public.tableau.com/app/profile/gayathri.danappal/vizzes)
 
 ---
 
 ## Tableau Workbook
-
-The Tableau workbook used in this project is available in:
-
-```text
-/dashboard/Enrollment_Dashboard.twbx
+The Tableau workbook used in this project is available upon request.
+For inquiries, please contact: 17116052@siswa.um.edu.my
