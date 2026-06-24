@@ -7,7 +7,7 @@ The dashboards complement the pmodelling results by providing visual insights fo
 
 ---
 
-## Dashboard 1: Admissions & Enrollment Overview
+## Dashboard 1: Admissions & Enrollment Insights
 
 ### Objective
 Provide an overview of institutional admissions and enrollment performance.
