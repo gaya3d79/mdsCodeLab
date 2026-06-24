@@ -23,20 +23,19 @@ Provide an overview of institutional admissions and enrollment performance.
 
 ---
 
-## Dashboard 2: Predictive Modelling Insights
+## Dashboard 2: Admissions & Enrollment Insights
 
 ### Objective
 Visualise the key metrics influencing enrollment outcomes and model performance.
 
 ### Key Insights
-1. Feature importance analysis
-2. Enrollment prediction results
+1. Instituional Comparison
+2. Yield Rate vs Admissions Rate
 3. Institutional segmentation
-4 High yield and low yield institution identification
+4. High yield and low yield institution identification
 
 ### Dashboard Preview
-
-![Dashboard 2](dashboard/gayathri.danappal_dashboard2.png)
+![Tableau Dashboard](./Dashboard%202.png)
 
 ---
 
