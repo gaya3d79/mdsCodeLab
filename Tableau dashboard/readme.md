@@ -51,4 +51,4 @@ The interactive Tableau dashboard can be accessed via Tableau Public:
 
 ## Tableau Workbook
 The Tableau workbook used in this project is available upon request.
-For inquiries, please contact: 17116052@siswa.um.edu.my
+For further information regarding this project, please contact: 17116052@siswa.um.edu.my
