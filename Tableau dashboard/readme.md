@@ -19,8 +19,7 @@ Provide an overview of institutional admissions and enrollment performance.
 4. Institutional comparisons
 
 ### Dashboard Preview
-
-![Dashboard 1](dashboard/gayathri.danappal_dashboard1.png) https://github.com/gaya3d79/mdsCodeLab/blob/main/Tableau%20dashboard/Dashboard%201.png ![Tableau Dashboard](./Dashboard%201.png)
+![Tableau Dashboard](./Dashboard%201.png)
 
 ---
 
